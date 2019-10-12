@@ -8,3 +8,6 @@ p {
 .header {
     font-size: 30px;
 }
+span {
+    font-style: initial;
+}
