@@ -8,3 +8,9 @@ p {
 .body {
     color: skyblue;
 }
+.header {
+    font-size: 30px;
+}
+span {
+    font-style: initial;
+}
