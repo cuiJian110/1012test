@@ -8,3 +8,9 @@ li {
 .body {
     text-align: center;
 }
+img {
+    display: block;
+}
+.header {
+    font-stretch: semi-expanded;
+}
